@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Maneesha Karunarathna 👋</h1>
-<h3 align="center">IT Undergraduate at SLIIT, Sri Lanka.</h3>
+<h1 align="left">Hi, I'm Maneesha Karunarathna 👋</h1>
+<h3 align="left">IT Undergraduate at SLIIT, Sri Lanka.</h3>
 
 - 📫 How to reach me **pmaneesha@my.sliit.lk**
 
