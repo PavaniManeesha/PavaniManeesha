@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Maneesha Karunarathna 👋</h1>
 <h3 align="left">IT Undergraduate at SLIIT, Sri Lanka.</h3>
 
-- 📫 How to reach me **pmaneesha@my.sliit.lk**
+- 📫 How to reach me **pmaneesha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
