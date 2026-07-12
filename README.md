@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm Maneesha Karunarathna 👋</h1>
 <h3 align="left">IT graduate at SLIIT, Sri Lanka.</h3>
 
-- 📫 How to reach me **pmaneesha@gmail.com**
-- **https://pavanimaneesha.github.io/My-Portfolio/**
+- 📫 How to reach me **pmaneesha23@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
